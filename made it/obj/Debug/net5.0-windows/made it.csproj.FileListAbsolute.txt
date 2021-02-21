@@ -1,0 +1,19 @@
+C:\Users\e\Desktop\C#\made it\made it\bin\Debug\net5.0-windows\made it.exe
+C:\Users\e\Desktop\C#\made it\made it\bin\Debug\net5.0-windows\made it.deps.json
+C:\Users\e\Desktop\C#\made it\made it\bin\Debug\net5.0-windows\made it.runtimeconfig.json
+C:\Users\e\Desktop\C#\made it\made it\bin\Debug\net5.0-windows\made it.runtimeconfig.dev.json
+C:\Users\e\Desktop\C#\made it\made it\bin\Debug\net5.0-windows\made it.dll
+C:\Users\e\Desktop\C#\made it\made it\bin\Debug\net5.0-windows\ref\made it.dll
+C:\Users\e\Desktop\C#\made it\made it\bin\Debug\net5.0-windows\made it.pdb
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.csprojAssemblyReference.cache
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made_it.Form1.resources
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made_it.Properties.Resources.resources
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.csproj.GenerateResource.cache
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.AssemblyInfoInputs.cache
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.AssemblyInfo.cs
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.csproj.CoreCompileInputs.cache
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.dll
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\ref\made it.dll
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.pdb
+C:\Users\e\Desktop\C#\made it\made it\obj\Debug\net5.0-windows\made it.genruntimeconfig.cache
