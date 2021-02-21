@@ -13,10 +13,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Net.NetworkInformation;
 using System.Runtime.InteropServices;
-using Discord.WebSocket;
-using DiscordRPC;
-using Discord;
-using DiscordRPC.Logging;
+
 
 
 namespace made_it
