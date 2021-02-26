@@ -5,8 +5,4 @@ Some things wont work unless your defaults get changed. The blizzard application
 
 Temp files are a bit dodgy but it works.
 
-Username = admin
-password = 123
-
-LOGIN PAGE ^^^
 
